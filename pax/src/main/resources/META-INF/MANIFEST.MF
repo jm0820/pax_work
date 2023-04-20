@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Main-Class: com.com.frame.ComponentMain
+Class-Path: commons-collections-3.2.2.jar jxls-2.12.0.jar commons-collec
+ tions4-4.1.jar slf4j-api-1.7.30.jar jxls-poi-2.12.0.jar poi-3.17.jar po
+ i-ooxml-3.17.jar poi-scratchpad-3.17.jar commons-compress-1.21.jar curv
+ esapi-1.04.jar commons-jexl3-3.2.jar jxl-2.6.jar stax-api-1.0.1.jar jcl
+ -over-slf4j-1.7.30.jar commons-codec-1.10.jar xmlbeans-2.6.0.jar log4j-
+ api-2.14.1.jar logback-core-1.2.10.jar poi-ooxml-schemas-3.17.jar commo
+ ns-beanutils-1.9.4.jar junit-3.8.1.jar log4j-core-2.20.0.jar
+

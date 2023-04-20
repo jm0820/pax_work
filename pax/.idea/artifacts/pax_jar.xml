@@ -1,0 +1,32 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="pax:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pax_jar</output-path>
+    <root id="root">
+      <element id="archive" name="pax.jar">
+        <element id="module-output" name="pax" />
+      </element>
+      <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.2" />
+      <element id="library" level="project" name="Maven: org.jxls:jxls:2.12.0" />
+      <element id="library" level="project" name="Maven: org.apache.commons:commons-collections4:4.1" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.30" />
+      <element id="library" level="project" name="Maven: org.jxls:jxls-poi:2.12.0" />
+      <element id="library" level="project" name="Maven: org.apache.poi:poi:3.17" />
+      <element id="library" level="project" name="Maven: org.apache.poi:poi-ooxml:3.17" />
+      <element id="library" level="project" name="Maven: org.apache.poi:poi-scratchpad:3.17" />
+      <element id="library" level="project" name="Maven: org.apache.commons:commons-compress:1.21" />
+      <element id="library" level="project" name="Maven: com.github.virtuald:curvesapi:1.04" />
+      <element id="library" level="project" name="Maven: org.apache.commons:commons-jexl3:3.2" />
+      <element id="library" level="project" name="Maven: net.sourceforge.jexcelapi:jxl:2.6" />
+      <element id="library" level="project" name="Maven: stax:stax-api:1.0.1" />
+      <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.30" />
+      <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.10" />
+      <element id="library" level="project" name="Maven: org.apache.xmlbeans:xmlbeans:2.6.0" />
+      <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-api:2.14.1" />
+      <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.2.10" />
+      <element id="library" level="project" name="Maven: org.apache.poi:poi-ooxml-schemas:3.17" />
+      <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.9.4" />
+      <element id="library" level="project" name="Maven: junit:junit:3.8.1" />
+      <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-core:2.20.0" />
+    </root>
+  </artifact>
+</component>
