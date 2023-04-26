@@ -96,7 +96,7 @@ public class ComponentMain {
     }
 
     ActionListener okAction = new ActionListener() {
-        @Override
+        @Override 
         public void actionPerformed(ActionEvent e) {
             if (records == null){
                 warn1.setText("输入文件为空");
